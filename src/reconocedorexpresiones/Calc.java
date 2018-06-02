@@ -9,7 +9,7 @@ package reconocedorexpresiones;
  *
  * @author cadav
  */
-public class Calculadora {
+public class Calc {
     
     public static double sumValues(int value1, int value2){
         return value1 + value2;
